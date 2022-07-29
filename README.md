@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=verdana&color=BD001B&width=500&lines=Hey+this+is+Karthik+Here.+A+passionate+Coder.)](https://git.io/typing-svg)
 ![Black Modern Blogger YouTube Channel Art](https://user-images.githubusercontent.com/89517611/181751341-ec7d7d52-8720-45be-976d-fb55578f43be.png)
-<div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
-</div>
+
 
 <h1> Hello Fellow < Developers/ >! </h1>
 
