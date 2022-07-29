@@ -19,6 +19,7 @@
 - 👯 I’m looking to collaborate on Open Source Projects 
 
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunities, Open Source 
+<h3>Youtube Channel - <a href="https://www.youtube.com/channel/UCh2Wwi8231vUyGqKQd6Oc2A">[Coding With Kar]</a></h3><br>
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/KarthikSK2001?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
