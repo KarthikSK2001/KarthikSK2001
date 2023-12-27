@@ -11,13 +11,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on Cyber Security Project and grinding on my DSA.
+- 🔭 I’m currently working at Caterpillar Inc. 
 
-- 🌱 I’m currently learning ReactJS and Flask 
+- 🌱 I’m currently learning TestComplete and .NET.
 
 - 👯 I’m looking to collaborate on Open Source Projects 
 
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunities, Open Source 
+- 💬 Talk to me about Python, JavaScript, TestComplete and .NET.
 <h3>Youtube Channel - <a href="https://www.youtube.com/channel/UCh2Wwi8231vUyGqKQd6Oc2A">[Coding With Kar]</a></h3><br>
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
