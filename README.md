@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working at Caterpillar Inc. 
 
-- 🌱 I’m currently learning TestComplete and .NET.
+- 🌱 I’m a .NET Full Stack Web Developer
 
 - 👯 I’m looking to collaborate on Open Source Projects 
 
